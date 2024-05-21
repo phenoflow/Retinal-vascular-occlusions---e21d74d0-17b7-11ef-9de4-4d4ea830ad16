@@ -1,0 +1,33 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/occlusion---primary.py
+inputModule3:
+  class: File
+  path: python/venous-retinal-vascular-occlusions---primary.py
+inputModule4:
+  class: File
+  path: python/arterial-retinal-vascular-occlusions---primary.py
+inputModule5:
+  class: File
+  path: python/retinal-vascular-occlusions---primary.py
+inputModule6:
+  class: File
+  path: python/central-retinal-vascular-occlusions---primary.py
+inputModule7:
+  class: File
+  path: python/other-retinal-vascular-occlusions---primary.py
+inputModule8:
+  class: File
+  path: python/retinal-vascular-occlusions-artery---primary.py
+inputModule9:
+  class: File
+  path: python/retinal-vascular-occlusions-branch---primary.py
+inputModule10:
+  class: File
+  path: python/occlusions---primary.py
+inputModule11:
+  class: File
+  path: python/output-cases.py
